@@ -42,4 +42,3 @@
 
 ## Tags
 `bug`, `playlist`, `UX`, `regression`, `vk.com`
-"""
